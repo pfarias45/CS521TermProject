@@ -1,3 +1,5 @@
+# {rogram mentions an Output.txt file. This is an example.
+
 Body Mass Index (BMI): 29.02 (Overweight: 2lb p/week weight loss recommended)
 Basal Metabolic Rate (BMR): 2595 calories
 Calorie Goal: 1595
